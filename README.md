@@ -17,5 +17,5 @@ https://download.microsoft.com/download/1/1/5/115B762D-2B41-4AF3-9A63-92D9680B94
 Download do SQLite:<br>
 https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app-xplat/adding-view
 
-dotnet ef migrations add InitialCreate
+dotnet ef migrations add InitialCreateDataBase <br>
 dotnet ef database update
