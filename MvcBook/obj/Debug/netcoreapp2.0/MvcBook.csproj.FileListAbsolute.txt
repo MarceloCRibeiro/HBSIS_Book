@@ -1,0 +1,10 @@
+c:\Users\mcribeir\Documents\Marcelo\HBSIS\MvcBook\bin\Debug\netcoreapp2.0\MvcBook.deps.json
+c:\Users\mcribeir\Documents\Marcelo\HBSIS\MvcBook\bin\Debug\netcoreapp2.0\MvcBook.runtimeconfig.json
+c:\Users\mcribeir\Documents\Marcelo\HBSIS\MvcBook\bin\Debug\netcoreapp2.0\MvcBook.runtimeconfig.dev.json
+c:\Users\mcribeir\Documents\Marcelo\HBSIS\MvcBook\bin\Debug\netcoreapp2.0\MvcBook.dll
+c:\Users\mcribeir\Documents\Marcelo\HBSIS\MvcBook\bin\Debug\netcoreapp2.0\MvcBook.pdb
+c:\Users\mcribeir\Documents\Marcelo\HBSIS\MvcBook\obj\Debug\netcoreapp2.0\MvcBook.csproj.CoreCompileInputs.cache
+c:\Users\mcribeir\Documents\Marcelo\HBSIS\MvcBook\obj\Debug\netcoreapp2.0\MvcBook.AssemblyInfoInputs.cache
+c:\Users\mcribeir\Documents\Marcelo\HBSIS\MvcBook\obj\Debug\netcoreapp2.0\MvcBook.AssemblyInfo.cs
+c:\Users\mcribeir\Documents\Marcelo\HBSIS\MvcBook\obj\Debug\netcoreapp2.0\MvcBook.dll
+c:\Users\mcribeir\Documents\Marcelo\HBSIS\MvcBook\obj\Debug\netcoreapp2.0\MvcBook.pdb
